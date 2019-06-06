@@ -1,0 +1,14 @@
+D:\USB\XpDisk\BaoThuc\LoadBaoThuc\LoadBaoThuc\bin\Debug\LoadBaoThuc.exe.config
+D:\USB\XpDisk\BaoThuc\LoadBaoThuc\LoadBaoThuc\bin\Debug\LoadBaoThuc.exe
+D:\USB\XpDisk\BaoThuc\LoadBaoThuc\LoadBaoThuc\bin\Debug\LoadBaoThuc.pdb
+D:\USB\XpDisk\BaoThuc\LoadBaoThuc\LoadBaoThuc\obj\Debug\LoadBaoThuc.csprojAssemblyReference.cache
+D:\USB\XpDisk\BaoThuc\LoadBaoThuc\LoadBaoThuc\obj\Debug\LoadBaoThuc.Form1.resources
+D:\USB\XpDisk\BaoThuc\LoadBaoThuc\LoadBaoThuc\obj\Debug\LoadBaoThuc.Properties.Resources.resources
+D:\USB\XpDisk\BaoThuc\LoadBaoThuc\LoadBaoThuc\obj\Debug\LoadBaoThuc.csproj.GenerateResource.cache
+D:\USB\XpDisk\BaoThuc\LoadBaoThuc\LoadBaoThuc\obj\Debug\LoadBaoThuc.csproj.CoreCompileInputs.cache
+D:\USB\XpDisk\BaoThuc\LoadBaoThuc\LoadBaoThuc\obj\Debug\LoadBaoThuc.exe
+D:\USB\XpDisk\BaoThuc\LoadBaoThuc\LoadBaoThuc\obj\Debug\LoadBaoThuc.pdb
+D:\USB\XpDisk\BaoThuc\LoadBaoThuc\LoadBaoThuc\bin\Debug\Newtonsoft.Json.dll
+D:\USB\XpDisk\BaoThuc\LoadBaoThuc\LoadBaoThuc\bin\Debug\Newtonsoft.Json.pdb
+D:\USB\XpDisk\BaoThuc\LoadBaoThuc\LoadBaoThuc\bin\Debug\Newtonsoft.Json.xml
+D:\USB\XpDisk\BaoThuc\LoadBaoThuc\LoadBaoThuc\obj\Debug\LoadBaoThuc.csproj.CopyComplete

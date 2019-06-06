@@ -1,0 +1,2 @@
+﻿chọn folder bunifutest\bin\Debug tìm đến file clock.exe để mở ứng dụng
+Tài khoản và mật khẩu mặc định là admin
